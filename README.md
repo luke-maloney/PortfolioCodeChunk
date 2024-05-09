@@ -1,1 +1,2 @@
 # PortfolioCodeChunk
+This code chunk was for my final portfolio in my data analytics class at American University that I took while pursuing my Master's degree. We were asked to select an exemplary code chunk that we wrote during the semester. I chose a chunk that creates a graph almost identical to that of 538's Biden popularity line graph (https://projects.fivethirtyeight.com/biden-approval-rating/). I used their data set to make it and tried to use the correct colors, font, and style.
